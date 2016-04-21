@@ -27,14 +27,14 @@
 * How do I register a middleware?
 * How do I register a Service Provider?
 * How do I register an Artisan Command?
-* How does the IOC ( Inversion of Control) Container work?
+* How does the IOC (Inversion of Control) Container work?
 * How do I go achieve subdomain routing?
-* I want all of my forms to be Bootstrap opinionated, how do I do it?
-* How do I see all of the routes that are defined?
+* How do I make all of my forms Bootstrap opinionated?
+* How do I see all defined routes?
 * What is a terminable Middleware?
 * What is a Controller Middleware?
 * How do you make a Middleware to be run during every HTTP Request to an application?
-* Given a list of comments with one author each, how would you use Eloquent to get the information you need without incurring N+1 queries?
+* How would I use Eloquent to get a list of comments with one author each avoiding N+1 queries?
 * How would you set up the Eloquent relationships between the aforementioned comments and authors, including creating the schema design?
 * How would you add a 3rd party package to your application like [laravel-emoji](https://github.com/unicodeveloper/laravel-emoji)?
 * Describe your process if you had to build and maintain a 3rd party package like [laravel-identify](https://github.com/unicodeveloper/laravel-identify)?
@@ -46,11 +46,11 @@
 * How do I make a particular task run everyday by 10pm?
 * How do I log an error?
 * How do I populate my database with sample data?
-* I need to send 5 emails and a text message to newly registered users efficiently. What's the best way to go about it?
+* What is the best way to send 5 emails and a text message efficiently to newly registered users?
 * How do I test sending emails without actually sending emails to real addresses?
 * I just installed laravel and have the evil whoops error, how do I find out what's wrong and fix it?
-* I need users to have several roles and be permitted to perform some actions based on those roles. How do I make that happen?
-* I want to set up billing and subscription with Stripe and Braintree. What's the best package to use?
+* How do I assign serveral roles to users and permit the users to perform some actions based on those roles?
+* What is the best package to set up billing and subscription with Stripe and Braintree?
 * How does Laravel handle Assets?
 
 
