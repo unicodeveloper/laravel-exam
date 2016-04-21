@@ -21,7 +21,7 @@
 * What are Model Factories?
 * What are Route Parameters?
 * What is a named route?
-* What is the default session timeout duration?
+* What is the default session timeout duration and how can it be set?
 * What are Accessors and Mutators in Eloquent and why should you use them?
 * What is Attribute Casting and how does it work in Eloquent?
 * How do I register a middleware?
