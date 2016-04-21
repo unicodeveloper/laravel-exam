@@ -3,7 +3,7 @@
 
 * What is Laravel?
 * How do you install Laravel, talk about the different ways?
-* What's MVC architecture?
+* What is MVC architecture?
 * What is a Service Provider?
 * What is a Service Container?
 * What is a Facade?
