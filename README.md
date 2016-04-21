@@ -28,7 +28,7 @@
 * How do I register a Service Provider?
 * How do I register an Artisan Command?
 * How does the IOC ( Inversion of Control) Container work?
-* How do I go achieve subdomain routing?
+* How do I use sub-domain routing?
 * I want all of my forms to be Bootstrap opinionated, how do I do it?
 * How do I see all of the routes that are defined?
 * What is a terminable Middleware?
