@@ -46,7 +46,6 @@
 * How do I make a particular task run everyday by 10pm?
 * How do I log an error?
 * How do I populate my database with sample data?
-* How do I seed my database using faker?
 * How do I seed my database for column that is a foreign key referencing to other table?
 * I need to send 5 emails and a text message to newly registered users efficiently. What's the best way to go about it?
 * How do I test sending emails without actually sending emails to real addresses?
