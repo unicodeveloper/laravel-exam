@@ -55,10 +55,25 @@
 
 
 
+## Contributing
+
+Please feel free to fork this package and contribute by submitting a pull request to add to the list of questions.
+
+
 ## Credits
 
 - [Reddit](https://www.reddit.com/r/laravel/comments/2cnrm8/laravel_interview_questions)
 - [Prosper Otemuyiwa](https://twitter.com/unicodeveloper)
+
+
+## How can I thank you?
+
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
+
+Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
+
+Thanks!
+Prosper Otemuyiwa.
 
 
 ## License
