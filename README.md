@@ -50,6 +50,7 @@
 * I need to send 5 emails and a text message to newly registered users efficiently. What's the best way to go about it?
 * How do I test sending emails without actually sending emails to real addresses?
 * I just installed laravel and have the evil whoops error, how do I find out what's wrong and fix it?
+* How can I hide all stack `whoops` error information when the application is in production?
 * I need users to have several roles and be permitted to perform some actions based on those roles. How do I make that happen?
 * I want to set up billing and subscription with Stripe and Braintree. What's the best package to use?
 * How does Laravel handle Assets?
