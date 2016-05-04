@@ -30,6 +30,7 @@
 * How does the IOC (Inversion of Control) Container work?
 * How do I use sub-domain routing?
 * How do I make all of my forms Bootstrap opinionated?
+* How do I setup localization for an application? 
 * How do I see all defined routes?
 * What is a terminable Middleware?
 * What is a Controller Middleware?
