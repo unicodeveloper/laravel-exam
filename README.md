@@ -39,6 +39,7 @@
 * How do I set up the Eloquent relationships between the aforementioned comments and authors, including creating the schema design?
 * How do I add a 3rd party package to your application like [laravel-emoji](https://github.com/unicodeveloper/laravel-emoji)?
 * Describe your process if you had to build and maintain a 3rd party package like [laravel-identify](https://github.com/unicodeveloper/laravel-identify)?
+* Describe a situation where creating custom artisan commands might be very handy.
 * How do I perform dependency injection in Laravel?
 * How do I require authentication for a set of routes associated with a subdomain?
 * None of my forms are being protected against CSRF attacks, what's wrong?
